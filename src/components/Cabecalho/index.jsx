@@ -15,9 +15,9 @@ export default function Cabecalho() {
     }, []);
 
     const midias = [
-        { id: 1, link: 'https://www.linkedin.com/in/alxdelira/', icone: '/assets/linkedin.png' },
+        { id: 1, link: 'https://www.linkedin.com/in/alxdelira', icone: '/assets/linkedin.png' },
         { id: 2, link: 'https://github.com/Alxdelira', icone: '/assets/github.png' },
-        { id: 3, link: 'https://www.instagram.com/alx_delira/gitl', icone: '/assets/instagram.svg' },
+        { id: 3, link: 'https://www.instagram.com/alx_delira', icone: '/assets/instagram.svg' },
         { id: 4, link: 'https://gitlab.fslab.dev/Alexandre', icone: '/assets/gitlab.png' },
     ];
 
