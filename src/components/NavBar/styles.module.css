@@ -1,0 +1,30 @@
+.menu {
+    display: flex;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(95deg, rgba(0, 0, 0, 1) 0%, rgba(9, 29, 121, 1) 54%, rgba(255, 0, 0, 1) 100%);
+    padding: 20px;
+    align-items: center;
+    
+}
+
+.tags {
+    padding: 0 0 0 20px;
+    list-style: none;;
+}
+
+.link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2rem;
+    margin-right: 2rem;
+    font-family: sans-serif;
+}
+
+.link:hover {
+    color: #000;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 0.5s;   
+
+}
