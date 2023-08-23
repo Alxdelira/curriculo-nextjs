@@ -15,10 +15,10 @@ export default function Cabecalho() {
                     </Link>
                 </li>
                 <li className={styles.tags}>
-                    <Link href="/produtos"
+                    <Link href="/fotos"
                         className={styles.link}
                     >
-                        Produtos
+                        Galeria
                     </Link>
                 </li>
                 <li className={styles.tags}>
